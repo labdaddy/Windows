@@ -18,3 +18,6 @@ You can do this by using diskpart on Windows:
 - In Windows, go to Computer(or This PC for Windows 10) and try to open the disk. It will ask you to format it.
 - Format it with the default settings and give it a name if you want.
 - It should now a single, unified partitioned drive.
+
+NOTE: If you get the error "Cannot delete a protected partition without the force protected parameter set." Then you just need to use `delete partition override`
+
