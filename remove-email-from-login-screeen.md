@@ -2,8 +2,8 @@
 - regedit
 - HKEY_LOCAL_MACHINE
 - SOFTWARE
-- MICROSOFT
-- WINDOWS
+- Microsoft
+- Windows
 - Current version
 - Policies
 - System
