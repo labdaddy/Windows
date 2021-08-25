@@ -20,7 +20,7 @@
 - Click the OK button.
 - Click the Apply button.
 - Click the OK button.
-- 
+
 Once you complete the steps, you can double-click the shortcut to open always open the Windows Terminal as administrator.
 
 If you want, you could also drag the shortcut to the taskbar to pin it. Or you can right-click the shortcut and select the Pin to Start option to run the app as an administrator from the Start menu.
