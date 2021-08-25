@@ -1,5 +1,5 @@
 #### How to format USB flash drive with PowerShell
-#### This awesome information was taken from [this awesome webpage.]( https://www.windowscentral.com/how-format-usb-flash-drive-windows-10)
+#### This awesome information was taken from [this awesome webpage.]( https://www.windowscentral.com/how-format-usb-flash-drive-windows-10){:target="_blank"}
 You can even use PowerShell commands to format a USB flash drive to erase its content. Or the command-line tool can also be used to clean and format the storage to resolve corruption and other problems.
 Format flash drive using PowerShell
 
