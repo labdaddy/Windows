@@ -6,3 +6,4 @@
 - [Powershell Loops](https://devblogs.microsoft.com/scripting/powershell-looping-understanding-and-using-dountil/)
 - [General Powershell scripting](https://devblogs.microsoft.com/scripting/)
 - [$PsScriptRoot Automatic variable](https://shellgeek.com/powershell-psscriptroot-automatic-variable/)
+- [Redirection in Powershell](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-7.1)
