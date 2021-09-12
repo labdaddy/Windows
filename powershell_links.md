@@ -10,3 +10,4 @@
 - [The PowerShell Foreach Loop](https://adamtheautomator.com/powershell-foreach/)
 - [Powershell Symbols](https://d12vzecr6ihe4p.cloudfront.net/media/965959/wp-five-simple-symbols-you-should-know-to-unlock-your-powershell-potential.pdf)
 - [More for loops](https://theitbros.com/powershell-script-for-loop-through-files-and-folders/)
+- [General Powershell article](https://theitbros.com/category/windows/powershell/)
