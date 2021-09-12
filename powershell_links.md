@@ -9,3 +9,4 @@
 - [Redirection in Powershell](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-7.1)
 - [The PowerShell Foreach Loop](https://adamtheautomator.com/powershell-foreach/)
 - [Powershell Symbols](https://d12vzecr6ihe4p.cloudfront.net/media/965959/wp-five-simple-symbols-you-should-know-to-unlock-your-powershell-potential.pdf)
+- [More for loops](https://theitbros.com/powershell-script-for-loop-through-files-and-folders/)
