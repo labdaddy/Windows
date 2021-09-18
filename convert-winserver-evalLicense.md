@@ -10,6 +10,13 @@
 -  All done! Now you can back to [this post](https://msguides.com/windows-server) then try activating your Windows again.
 
 
+#### Another method
+- Windows Server 2016/2019
+To reactivate your trial license you need to open a command prompt, this can be something like Command Prompt or PowerShell. The Software Licensing Management Tool (SLMGR) tool is the one you want to invoke.  There are a lot of switches with this tool.  The ones we are concerned with are:
+- `slmgr.vbs -dlv`
+- This command displays the current license information with activation information as well.  It's quite a useful command and provides a great deal of information. The second command is the one that rearms the license:
+- `slmgr.vbs -rearm`
+- Be sure to give the server a reboot after this command to initiate the changes.  Once you have done that you can use the -dlv switch again to check on the licensing status and how many rearms you have left. This syntax will work on older versions of Windows Server as well.
 
 
 
