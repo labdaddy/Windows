@@ -1,0 +1,6 @@
+### Create a shutdown shortcut in windows 10
+- right click anywhere on desktop
+- in the context menu that pops up go to new, then shortcut
+- in the location field in the next window paste this directory structure: `%windir%\System32\shutdown.exe /s /t 0`
+- then click next
+- profit
