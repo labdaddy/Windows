@@ -33,7 +33,8 @@ Otherwise, check with the AMI provider.
 - This way the connection and relevant key information will be saved and you don't have to do this rigamarole every time.
 - Now select the connection you just named and click `open`.
 - In the security popup click `yes`.
-- A terminal window will open and connect to your EC2 instance. 
+- A terminal window will open and connect to your EC2 instance.
+ 
 Boom shakalaka 
 
 ### Additional stuff
