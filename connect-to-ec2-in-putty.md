@@ -1,4 +1,4 @@
-###Connect to EC2 using Putty and PuttyGen
+### Connect to EC2 using Putty and PuttyGen
 - Download and install putty and puttygen
 - Go to the EC2 page. On the left hand side scroll down to Network and Security. Click on `key pairs`
 - Click on create key pair, name the key pair etc. Make sure to download the key file when the option is presented.
@@ -36,7 +36,7 @@ Otherwise, check with the AMI provider.
 - A terminal window will open and connect to your EC2 instance. 
 - Boom shakalaka 
 
-###Additional stuff
+### Additional stuff
 - To disconnect from the instance type `exit` in the terminal window. This will close the connection.
 - Then go to your running instance in the AWS cloud console.
 - Select your particular instance (little box on the left is blue), then at the top of the screen where it says `Actions`, click the arrow and from the dropdown select `instance state` ===> `stop`
