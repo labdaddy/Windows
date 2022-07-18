@@ -34,7 +34,7 @@ Otherwise, check with the AMI provider.
 - Now select the connection you just named and click `open`.
 - In the security popup click `yes`.
 - A terminal window will open and connect to your EC2 instance. 
-- Boom shakalaka 
+Boom shakalaka 
 
 ### Additional stuff
 - To disconnect from the instance type `exit` in the terminal window. This will close the connection.
